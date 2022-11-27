@@ -22,4 +22,4 @@ Activity Number, Activity Name, and Activity Description
 9.	Unit 2 Project – Students now design a website based on a set of criteria. They start with no existing webpage and have to create everything on their own. This project has a grading rubric for easy grading.
 
 10.	Unit 2 Quiz – Filled with multiple choice and true and false questions, plus matching or ordering questions. There is also a portion for code correction where students look at code and determine where the error are located.
-![image](https://user-images.githubusercontent.com/85954161/204155240-9f87c983-dbc7-470a-b360-25486b39df6b.png)
+
